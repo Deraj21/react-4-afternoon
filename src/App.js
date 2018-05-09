@@ -20,3 +20,8 @@ export default class App extends Component {
     )
   }
 }
+
+/*
+back button on Student detail view -> ClassList view.
+back button to ClassList view -> Home view.
+*/
